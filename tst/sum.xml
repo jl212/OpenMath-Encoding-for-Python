@@ -1,0 +1,11 @@
+<OMOBJ>
+ <OMA>
+   <OMS cd="arith1" name="sum"/>
+     <OMA>
+       <OMS cd="interval1" name="integer_interval"/>
+       <OMI> 1 </OMI>
+       <OMI> 10 </OMI>
+     </OMA>
+     <OMS cd="arith1" name="abs"/>
+ </OMA>
+</OMOBJ>

@@ -1,0 +1,11 @@
+<OMOBJ>
+ <OMA>
+   <OMS cd="arith1" name="product"/>
+     <OMA>
+       <OMS cd="interval1" name="integer_interval"/>
+       <OMI> 7 </OMI>
+       <OMI> 10 </OMI>
+     </OMA>
+     <OMS cd="integer1" name="factorial"/>
+ </OMA>
+</OMOBJ>

@@ -1,0 +1,9 @@
+<OMOBJ>
+    <OMATTR>
+        <OMATP>
+            <OMS cd="arith1" name="abs"/>
+            <OMI>-7</OMI>
+        </OMATP>
+        <OMI>7</OMI>
+    </OMATTR>
+</OMOBJ>
